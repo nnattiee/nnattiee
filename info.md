@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nnattiee /16 y.o.
+- 🌱 I’m currently learning C#
